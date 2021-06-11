@@ -1,4 +1,5 @@
 *.sch-bak
+plot
 *cache*
 *-bak
 *.zip
