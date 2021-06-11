@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "kicad_zif socket")(type KiCad)(uri "${KIPRJMOD}/kicad_zif socket.pretty")(options "")(descr ""))
+  (lib (name logos)(type KiCad)(uri ${KIPRJMOD}/logos)(options "")(descr ""))
+)
