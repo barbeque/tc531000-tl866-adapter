@@ -1,4 +1,5 @@
 *.sch-bak
+tc531000-v*
 *.lck
 plot
 *-bak

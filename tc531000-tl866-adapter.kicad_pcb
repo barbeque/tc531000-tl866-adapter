@@ -63,7 +63,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "plot")
+      (outputdirectory "tc531000-v1")
     )
   )
 
