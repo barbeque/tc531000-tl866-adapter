@@ -1,5 +1,5 @@
 *.sch-bak
+*.lck
 plot
-*cache*
 *-bak
 *.zip
