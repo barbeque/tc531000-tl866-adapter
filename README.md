@@ -1,6 +1,8 @@
 # TC531000 to 27c010 adapter
 This adapter board allows you to dump Toshiba TC531000 1Mbit mask ROMs with a TL866 EPROM programmer by adapting the pinout to the more common JEDEC 27c010 pinout.
 
+**Status**: Untested.
+
 It was originally developed as part of a [Leaded Solder](https://www.leadedsolder.com) hardware project.
 
 The ZIF socket footprint comes from the hard work of ayanosuke in the [kicad_zif-socket project](https://github.com/ayanosuke/kicad_zif-socket)
