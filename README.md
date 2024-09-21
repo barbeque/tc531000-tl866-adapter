@@ -1,5 +1,11 @@
 # TC531000 to 27c010 adapter
-This adapter board allows you to dump Toshiba TC531000 1Mbit mask ROMs with a TL866 EPROM programmer by adapting the pinout to the more common JEDEC 27c010 pinout.
+This adapter board allows you to dump Toshiba TC531000 28-pin "mostly JEDEC" 1Mbit mask ROMs with a TL866 EPROM programmer by adapting the pinout to the more common 32-pin JEDEC 27c010 pinout.
+
+It should also work for:
+
+ - Hitachi HN62301
+ - NEC µPD23c1000
+ - TI TMS47c1024
 
 **Status**: Untested.
 
